@@ -1,0 +1,11 @@
+{
+    "require": {
+        "php-smpp/php-smpp": "dev-MT-gGnYcMfd-setup-smpp-mtech as 2.0"
+    },
+    "repositories": [
+        {
+            "url": "https://github.com/novelt/php-smpp.git",
+            "type": "git"
+        }
+    ]
+}
